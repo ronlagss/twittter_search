@@ -1,4 +1,4 @@
-# Hydrus.ai 
+# Twitter Search
 The reason Twitter API is not being used is because of the limitations it has, such as only being able to gets recent tweets, 
 only week old. Another limitation is not being able to say how many tweets one wishes to store. 
 
